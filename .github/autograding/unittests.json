@@ -1,8 +1,0 @@
-[
-  {
-    "name": "test_main",
-    "function": "test_list_index_ok",
-    "timeout": 10,
-    "points": 2
-  }
-]
